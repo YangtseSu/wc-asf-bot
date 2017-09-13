@@ -8,5 +8,5 @@ ArchiSteamFarm命令微信机器人
 
  python3 asfbot.py
 
-对话有图灵机器人回话，以!开头命令由ASF处理。
+对话由图灵机器人回话，以!开头命令由ASF处理。
 只能跟文件传输助手对话。
